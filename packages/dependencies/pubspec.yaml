@@ -1,0 +1,25 @@
+name: dependencies
+description: A new Flutter package project.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter_modular: ^4.0.1+2
+  flutter_triple: ^1.2.4+3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
