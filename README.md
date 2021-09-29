@@ -11,6 +11,6 @@ This is a new Challenge:
 - [ ] Flutter Triple
 
 ## Getting Started
-<img src='https://github.com/Bwolfs2/cripto_app/blob/master/crypto/assets/telas.png'>
+<img src='https://github.com/Bwolfs2/cripto_app/blob/master/crypto_app/assets/design.png'>
 
-Mock [Crypto.xd](https://github.com/Bwolfs2/cripto_app/blob/master/crypto/assets/Crypto.xd)
+Mock [Crypto.xd](https://github.com/Bwolfs2/cripto_app/blob/master/crypto_app/assets/crypto.xd)
