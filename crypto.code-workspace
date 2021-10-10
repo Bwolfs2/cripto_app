@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "packages\\coin"
+		},
+		{
+			"path": "packages\\core"
+		},
+		{
+			"path": "packages\\dependencies"
+		},
+		{
+			"path": "crypto_app"
+		},
+		{
+			"path": "packages\\facade"
+		}
+	],
+	"settings": {}
+}
